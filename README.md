@@ -24,8 +24,10 @@ Several projects have been developed on Matlab, but also on Python and Arduino.
 ### Object-directed projects:
 - Lickometer:
   * How to build a capacitive sensor to detect each lick of a rodent in a water spout.
+  
 - Commutator for Electrophysiology:
   * How to build an affordable commutator for electrophysiology
+  
 - Skinner box:
   * For decision-making research (GO/NO-GO task):
 
