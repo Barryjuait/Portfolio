@@ -6,10 +6,11 @@ Several projects have been developed on Matlab, Python and Arduino.
 ## Contents
 
 ### Unsupervised Learning:
-- Pulsar Dataset HTRU2: (https://github.com/Barryjuait/Barryjuait/blob/master/HTRU2_analysis.ipynb)
+- Pulsar Dataset HTRU2: https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/HTRU2_analysis.ipynb
   * In this project I go through descriptive analysis, predictive analysis and dimensionality reduction procedures to describe two types of Neutron Stars from different features of an astronomical dataset. Available in https://archive.ics.uci.edu/ml/datasets/HTRU2.
   
-- Supervised Learning: 
+### Supervised Learning: 
+- .
   * . 
   
 ### Time series:
@@ -31,7 +32,7 @@ Several projects have been developed on Matlab, Python and Arduino.
 ### Object-directed projects:
 - Lickometer:
   * How to build a capacitive sensor to detect each lick of a rodent in a water spout: 
-  https://github.com/Barryjuait/Barryjuait/blob/master/Lick-o-meter
+  https://github.com/Barryjuait/Barryjuait/blob/master/Arduino/Lick-o-meter
   
 - Commutator for Electrophysiology:
   * How to build an affordable commutator for electrophysiology
