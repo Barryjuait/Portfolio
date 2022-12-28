@@ -5,12 +5,12 @@ Several projects have been developed on Matlab, Python and Arduino.
 
 ## Contents
 
-### Time series:
-- Pulsar Dataset HTRU2: (https://github.com/Barryjuait/SleepGit)
+### Unsupervised Learning:
+- Pulsar Dataset HTRU2: (https://github.com/Barryjuait/Barryjuait/blob/master/HTRU2_analysis.ipynb)
   * In this project I go through descriptive analysis, predictive analysis and dimensionality reduction procedures to describe two types of Neutron Stars from different features of an astronomical dataset. Available in https://archive.ics.uci.edu/ml/datasets/HTRU2.
   
-- Eye tracking Analysis: 
-  * Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. 
+- Supervised Learning: 
+  * . 
   
 ### Time series:
 - Sleep Stages Analysis from EEG signals: (https://github.com/Barryjuait/SleepGit)
