@@ -1,10 +1,17 @@
 # Portfolio
 
 This repository contains some of the projects I have worked on for academic, self-learning, and hobby purposes.
-Several projects have been developed on Matlab, but also on Python and Arduino.
+Several projects have been developed on Matlab, Python and Arduino.
 
 ## Contents
 
+### Time series:
+- Pulsar Dataset HTRU2: (https://github.com/Barryjuait/SleepGit)
+  * In this project I go through descriptive analysis, predictive analysis and dimensionality reduction procedures to describe two types of Neutron Stars from different features of an astronomical dataset. Available in https://archive.ics.uci.edu/ml/datasets/HTRU2.
+  
+- Eye tracking Analysis: 
+  * Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. 
+  
 ### Time series:
 - Sleep Stages Analysis from EEG signals: (https://github.com/Barryjuait/SleepGit)
   * In this project I aimed to detect and classify through Machine Learning classical stages of 
