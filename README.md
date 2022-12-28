@@ -30,7 +30,8 @@ Several projects have been developed on Matlab, Python and Arduino.
 
 ### Object-directed projects:
 - Lickometer:
-  * How to build a capacitive sensor to detect each lick of a rodent in a water spout.
+  * How to build a capacitive sensor to detect each lick of a rodent in a water spout: 
+  https://github.com/Barryjuait/Barryjuait/blob/master/Lick-o-meter
   
 - Commutator for Electrophysiology:
   * How to build an affordable commutator for electrophysiology
