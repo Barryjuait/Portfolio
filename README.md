@@ -6,11 +6,11 @@ Several projects have been developed on Matlab, Python and Arduino.
 ## Contents
 
 ### Unsupervised Learning (Python):
-- Pulsar Dataset HTRU2: https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/HTRU2_analysis.ipynb
+- [Pulsar Dataset HTRU2](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/HTRU2_analysis.ipynb)
   * In this project I go through descriptive analysis, predictive analysis and dimensionality reduction procedures to describe two types of Neutron Stars from different features of an astronomical dataset. Available in https://archive.ics.uci.edu/ml/datasets/HTRU2.
   
 ### Supervised Learning (Python): 
-- Boston Housing: https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Estimating_Prices_in_Boston_with_Supervised_Models.ipynb
+- [Boston Housing](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Estimating_Prices_in_Boston_with_Supervised_Models.ipynb)
   * Here I use descriptive analysis, dimensionality reduction and supervised models to estimate the price of properties in boston based on multiple variables.
 - Fake News Detection (Python):
 
