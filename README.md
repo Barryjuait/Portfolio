@@ -23,16 +23,16 @@ Everything has been developed either on Matlab, Python and Arduino.
    
 ### Analysis of Time series:
 - [Sleep Stages Analysis from EEG signals:](https://github.com/Barryjuait/SleepGit)
-  * In this project, I built in Matlab an automatic classifier of the Waking, NREM and REM sleep stages from mouse electrophysiological data provided by Dr. Dipesh Chaudhari, NYUAD http://www.chaudhurylab.org/. 
-  - Write me if you want to request access to the repository.
+  - In this project, I built in Matlab an automatic classifier of the Waking, NREM and REM sleep stages from mouse electrophysiological data provided by Dr. Dipesh Chaudhari, NYUAD http://www.chaudhurylab.org/. Write me if you want to request access to the repository.
   
 - [Eye tracking Analysis: ](https://github.com/Barryjuait/Barryjuait/tree/master/Eyetracking)
-  * Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii.
+  - Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. Basically the code follows the movement of the eyes of people watching a scene.
 
 - Movement detection and classification from Accelerometers:
-
+ - In this code I detect movement bouts from accelerometer data. Movement speed, distance and duration reveal the posibility for classification of the bouts in different classes.
+ 
 - Detection of rotational behavior from video tracking (Matlab):
-  * Routine to detect the rotations often observed in animal models of L-DOPA-induced dyskinesia:
+  * Routine to detect the rotations often observed in animal models of Parkinson's disease.
 
 ### Object-directed projects:
 - [Lickometer:](https://github.com/Barryjuait/Barryjuait/blob/master/Arduino/Lick-o-meter)
