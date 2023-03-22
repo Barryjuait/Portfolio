@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my GitHub portfolio. Here, you can explore a collection of my academic and personal projects, including Python and Matlab scripts, Arduino projects, and even Excel work. Although, the datasets I used are very diverse, these projects showcase my technical skills and problem-solving abilities. Feel free to take a look and contact me if you want to give me feedback or if you have a cool project we can team up on.
+Welcome to my GitHub portfolio. Here, you can explore a collection of my academic and personal projects, including Python and Matlab scripts, Arduino projects, and even Excel work. Although the datasets I used are very diverse, these projects showcase my technical skills and problem-solving abilities. Feel free to take a look and contact me if you want to give me feedback or if you have a cool project we can team up on.
 
 
 ## Contents
