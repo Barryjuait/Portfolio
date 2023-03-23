@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
   </p>
   
 - [Boston Housing Value:](https://colab.research.google.com/github/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Estimating_Prices_in_Boston_with_Supervised_Models.ipynb)
-  - Here I used different supervised models to estimate the price of properties in Boston using multivariate data. I performed feature selection and used different metrics to evaluate the performance of the models used.
+  - Here I used different supervised models to estimate the price of properties in Boston using multivariate data. I performed feature selection and used different metrics to evaluate the performance of the models tested.
    <p align="center">
    <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/Boston.png" width="500" height="250">
   </p>
