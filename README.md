@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
   </p>
 
 - [Detection of Behavioral States Using 1D Convolutional Neural Networks](https://colab.research.google.com/github/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Dysk_MLP.ipynb)
-  - Here I implemented 1D CNN to forecast specific behavioral states the brain activity of a rat model of Parkinson's disease.
+  - Here I implemented a 1D CNN on a dataset containing the brain activity of a rat model of Parkinson's disease. The results suggest that the side effects of the medication used for Parkinson's disease share a similar pattern of brain activity seen with other drugs that target the dopaminergin system. Those patterns of electrical activity could be used to forecast the severity of those side effects, and therefore adjust the dose of the drug to subthreshold levels.
    <p align="center">
    <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/Spg.png" width="800" height="250">
   </p>
