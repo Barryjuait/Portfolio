@@ -32,7 +32,7 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
    
 - [Sleep Stages Classifier from EEG signals:](https://github.com/Barryjuait/SleepGit)
   - In this project, I built an automatic classifier for the different stages of the sleep-waking cycle (Waking, NREM and REM) using mouse electrophysiological data provided by Dr. Dipesh Chaudhari, NYUAD http://www.chaudhurylab.org/. Write me if you want to request access to the repository.
-     <p align="center">
+  <p align="center">
    <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/output.png" width="800" height="400">
   </p>
   
