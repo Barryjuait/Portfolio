@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my GitHub portfolio. Here, you can explore a collection of my academic and personal projects, including Python and Matlab scripts, Arduino projects, and even Excel work. Although the datasets I used are very diverse, these projects showcase my technical skills and problem-solving abilities. Feel free to take a look and contact me if you want to give me feedback or if you have a cool project we can team up on.
+Welcome to my GitHub portfolio. Here, you can explore a collection of my academic and personal projects, including Python, Matlab, and Arduino projects. Although the datasets I used are very diverse, these projects showcase my technical skills and problem-solving abilities. Feel free to take a look and contact me if you want to give me feedback or if you have a cool project we can team up on. This portfolio is still under construction.
 
 
 ## Contents
@@ -29,14 +29,15 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
    <p align="center">
    <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/Spg.png" width="800" height="250">
   </p>
-
+   
+- [Sleep Stages Classifier from EEG signals:](https://github.com/Barryjuait/SleepGit)
+  - In this project, I built an automatic classifier for the different stages of the sleep-waking cycle (Waking, NREM and REM) using mouse electrophysiological data provided by Dr. Dipesh Chaudhari, NYUAD http://www.chaudhurylab.org/. Write me if you want to request access to the repository.
+     <p align="center">
+   <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/output.png" width="800" height="400">
+  </p>
+  
 - [Detection of Fraudulent Credit Card Transactions:](https://colab.research.google.com/github/Barryjuait/blob/master/Personal%20Projects/Detection_of_Fraudulent_Transactions.ipynb)
   - Using similar approaches as above, I tested different predictive models for the detection of Fraudulent Credit Card Transactions.
-
-
-   
-- [Sleep Stages Analysis from EEG signals:](https://github.com/Barryjuait/SleepGit)
-  - In this project, I built in Matlab an automatic classifier of the Waking, NREM and REM sleep stages from mouse electrophysiological data provided by Dr. Dipesh Chaudhari, NYUAD http://www.chaudhurylab.org/. Write me if you want to request access to the repository.
   
 - [Eye tracking Analysis: ](https://github.com/Barryjuait/Barryjuait/tree/master/Eyetracking)
   - Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. Basically the code follows the movement of the eyes of people watching a scene.
