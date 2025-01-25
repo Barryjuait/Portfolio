@@ -41,6 +41,9 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
  
 - [Assessment of Adverse Effects of COVID vaccines on medical records:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/COVIDadverse.ipynb)
   * Using NLP models it was possible to evaluate to what extend vaccines affected different demographics.
+ 
+- [Use of Automatic Speech Recognition to determine speech speed in youtube videos:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Youtube_Analysis/YoutubeAnalysis.ipynb)
+  * Use of OpenAI model Whisper to extract transcripts and word timestamps from speach in youtube videos.
   
 - [Eye tracking Analysis: ](https://github.com/Barryjuait/Barryjuait/tree/master/Eyetracking)
   * Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. Basically the code follows the movement of the eyes of people watching a scene.
@@ -61,4 +64,3 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
   * For decision-making research (GO/NO-GO task):
 
   
- 
