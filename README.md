@@ -44,6 +44,9 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
  
 - [Use of Automatic Speech Recognition to determine speech speed in youtube videos:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Youtube_Analysis/YoutubeAnalysis.ipynb)
   * Use of OpenAI model Whisper to extract transcripts and word timestamps from speach in youtube videos.
+
+- [Segment Anything Model (SAM) for Detection of Lung Cancer Organoids:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/SAM_Organoids.ipynb)
+  * Fine Tuning of Meta's Segment Anything Model (Deep Learning) to create masks for segmentation of individual organoids in culture.
   
 - [Eye tracking Analysis: ](https://github.com/Barryjuait/Barryjuait/tree/master/Eyetracking)
   * Here I designed a routine to detect "most-seen" regions of a picture from a public dataset provided by Tobii. Basically the code follows the movement of the eyes of people watching a scene.
