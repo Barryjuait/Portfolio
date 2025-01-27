@@ -43,7 +43,7 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
   * Using NLP models it was possible to evaluate to what extend vaccines affected different demographics.
  
 - [Use of Automatic Speech Recognition to determine speech speed in youtube videos:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Youtube_Analysis/YoutubeAnalysis.ipynb)
-  * Use of OpenAI model Whisper to extract transcripts and word timestamps from speach in youtube videos.
+  * Use of OpenAI model Whisper to extract transcripts and word timestamps from speech in youtube videos.
 
 - [Segment Anything Model (SAM) for Detection of Lung Cancer Organoids:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/SAM_Organoids.ipynb)
   * Fine Tuning of Meta's Segment Anything Model (Deep Learning) to create masks for segmentation of individual organoids in culture.
