@@ -35,12 +35,15 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
   <p align="center">
    <img src="https://github.com/Barryjuait/Portfolio/blob/main/Images/output.png" width="800" height="400">
   </p>
-  
-- [Detection of Fraudulent Credit Card Transactions:](https://colab.research.google.com/github/Barryjuait/blob/master/Personal%20Projects/Detection_of_Fraudulent_Transactions.ipynb)
-  * Using similar approaches as above, I tested different predictive models for the detection of Fraudulent Credit Card Transactions.
+
+- [Stock Prices Forecasting:](https://colab.research.google.com/drive/1aVaUI125giafvNOtFhMPn-Z1UpW2WU9D#scrollTo=BjOUlr1JXaaj.ipynb)
+  * Use of 1D CNN for Stock Prices of Tesla.
+    
+- [Detection of Fraudulent Credit Card Transactions:](https://colab.research.google.com/github/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Detection_of_Fraudulent_Transactions.ipynb#scrollTo=OlTL8yl3SctL.ipynb)
+  * Use of various regression models for the detection of Fraudulent Credit Card Transactions.
  
 - [Assessment of Adverse Effects of COVID vaccines on medical records:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/COVIDadverse.ipynb)
-  * Using NLP models it was possible to evaluate to what extend vaccines affected different demographics.
+  * Used NLP models it was possible to evaluate to what extend vaccines affected different demographics.
  
 - [Use of Automatic Speech Recognition to determine speech speed in youtube videos:](https://github.com/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Youtube_Analysis/YoutubeAnalysis.ipynb)
   * Use of OpenAI model Whisper to extract transcripts and word timestamps from speech in youtube videos.
