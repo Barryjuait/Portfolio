@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio. Here, you can explore a collection of my academi
 - [Stock Prices Forecasting:](https://colab.research.google.com/drive/1aVaUI125giafvNOtFhMPn-Z1UpW2WU9D#scrollTo=BjOUlr1JXaaj.ipynb)
   * Use of 1D CNN for Stock Prices of Tesla.
  
-- [Predictive Analysis on Clinical Diabetes Data:](https://colab.research.google.com/drive/1ZchbdgLPwSYk2Vrq-Lhqil5aXP9FsY7V.ipynb)
+- [Predictive Analysis on Clinical Diabetes Data:](https://colab.research.google.com/github/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Clinical_Data_on_Diabetes.ipynb)
   * Use of different ML models to evaluate muultivariate analysis on Diabetes.
     
 - [Detection of Fraudulent Credit Card Transactions:](https://colab.research.google.com/github/Barryjuait/Barryjuait/blob/master/Personal%20Projects/Detection_of_Fraudulent_Transactions.ipynb#scrollTo=OlTL8yl3SctL.ipynb)
